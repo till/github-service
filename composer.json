@@ -1,0 +1,25 @@
+{
+    "name": "till/github-provider",
+    "description": "A small PHP library to talk to Github and perform various tasks!",
+    "authors": [
+        {
+            "name": "Till Klampaeckel",
+            "homepage": "http://till.klampaeckel.de/",
+            "email": "till@php.net"
+        }
+    ],
+    "license": "BSD-2-Clause",
+    "repositories": [
+        {
+            "type": "pear",
+            "url": "http://pear.php.net/"
+        }
+    ],
+    "autoload": {
+        "classmap": [ "src/" ]
+    },
+    "require": {
+        "pear-pear/HTTP_Request2": "*"
+    },
+    "minimum-stability": "dev"
+}
