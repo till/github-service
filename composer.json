@@ -1,5 +1,5 @@
 {
-    "name": "till/github-provider",
+    "name": "till/github-service",
     "description": "A small PHP library to talk to Github and perform various tasks!",
     "authors": [
         {
